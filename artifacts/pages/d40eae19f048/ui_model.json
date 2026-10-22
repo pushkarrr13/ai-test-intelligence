@@ -1,0 +1,149 @@
+{
+  "url": "https://www.saucedemo.com/",
+  "title": "Swag Labs",
+  "elements": [
+    {
+      "index": 0,
+      "tag": "div",
+      "type": null,
+      "role": "main",
+      "text": "Accepted usernames are: standard_user locked_out_user problem_user performance_glitch_user error_user visual_user Password for all users: secret_sauce",
+      "id": null,
+      "name": null,
+      "placeholder": null,
+      "aria_label": null,
+      "title": null,
+      "href": null,
+      "value": null,
+      "required": false,
+      "disabled": false,
+      "checked": false,
+      "visible": true,
+      "x": 0,
+      "y": 108,
+      "width": 1440,
+      "height": 543
+    },
+    {
+      "index": 1,
+      "tag": "input",
+      "type": "text",
+      "role": null,
+      "text": "",
+      "id": "user-name",
+      "name": "user-name",
+      "placeholder": "Username",
+      "aria_label": "Username",
+      "title": null,
+      "href": null,
+      "value": null,
+      "required": false,
+      "disabled": false,
+      "checked": false,
+      "visible": true,
+      "x": 574,
+      "y": 154,
+      "width": 292,
+      "height": 39
+    },
+    {
+      "index": 2,
+      "tag": "input",
+      "type": "password",
+      "role": null,
+      "text": "",
+      "id": "password",
+      "name": "password",
+      "placeholder": "Password",
+      "aria_label": "Password",
+      "title": null,
+      "href": null,
+      "value": null,
+      "required": false,
+      "disabled": false,
+      "checked": false,
+      "visible": true,
+      "x": 574,
+      "y": 208,
+      "width": 292,
+      "height": 39
+    },
+    {
+      "index": 3,
+      "tag": "input",
+      "type": "submit",
+      "role": null,
+      "text": "",
+      "id": "login-button",
+      "name": "login-button",
+      "placeholder": null,
+      "aria_label": null,
+      "title": null,
+      "href": null,
+      "value": "Login",
+      "required": false,
+      "disabled": false,
+      "checked": false,
+      "visible": true,
+      "x": 574,
+      "y": 302,
+      "width": 292,
+      "height": 49
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h4",
+      "text": "Accepted usernames are:"
+    },
+    {
+      "tag": "h4",
+      "text": "Password for all users:"
+    }
+  ],
+  "forms": [
+    {
+      "index": 0,
+      "action": null,
+      "method": "get",
+      "inputs": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "user-name",
+          "id": "user-name",
+          "placeholder": "Username",
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "password",
+          "name": "password",
+          "id": "password",
+          "placeholder": "Password",
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "submit",
+          "name": "login-button",
+          "id": "login-button",
+          "placeholder": null,
+          "required": false
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "stats": {
+    "total_elements": 4,
+    "visible_elements": 4,
+    "buttons": 1,
+    "inputs": 3,
+    "links": 0,
+    "forms": 1,
+    "headings": 2
+  },
+  "page_id": "d40eae19f048",
+  "depth": 0
+}

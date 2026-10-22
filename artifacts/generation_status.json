@@ -1,0 +1,6 @@
+{
+  "status": "failed",
+  "message": "Test generation failed: Command '['C:\\\\ai-test-intelligence\\\\backend\\\\.venv\\\\Scripts\\\\python.exe', 'C:\\\\ai-test-intelligence\\\\automation\\\\ai_journey_generator.py']' returned non-zero exit status 1.. See artifacts/target_generation.log.",
+  "updated_at": "2026-10-22T17:00:00.773353",
+  "process_id": 13912
+}

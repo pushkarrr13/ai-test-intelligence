@@ -1,0 +1,38 @@
+﻿Application: SauceDemo-style e-commerce application
+
+REQ-001:
+Users must be able to log in using valid credentials.
+
+Acceptance Criteria:
+- A valid username and password should authenticate the user.
+- The authenticated user should be taken to the inventory page.
+- Invalid credentials should not authenticate the user.
+
+REQ-002:
+Users must be able to browse products.
+
+Acceptance Criteria:
+- Users should see available products.
+- Users should be able to sort products.
+- Users should be able to open a product's details.
+
+REQ-003:
+Users must be able to add products to their shopping cart.
+
+Acceptance Criteria:
+- A user can add a product to the cart.
+- The cart should reflect the selected item count.
+- The user can open the cart and see selected products.
+
+REQ-004:
+Users must be able to remove products from their cart.
+
+Acceptance Criteria:
+- A user can remove a selected product.
+- The removed product should no longer appear in the cart.
+
+REQ-005:
+Users should be able to continue shopping from the cart.
+
+Acceptance Criteria:
+- Selecting Continue Shopping should return the user to the inventory page.

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Successful Login with Standard User",
+    "type": "positive",
+    "priority": "critical",
+    "status": "PASSED",
+    "steps": [
+      "Navigate to https://www.saucedemo.com/",
+      "Enter 'standard_user' in the Username field",
+      "Enter 'secret_sauce' in the Password field",
+      "Click the Login button"
+    ],
+    "error": null,
+    "screenshot": null
+  },
+  {
+    "title": "Login with Empty Credentials",
+    "type": "negative",
+    "priority": "high",
+    "status": "PASSED",
+    "steps": [
+      "Navigate to https://www.saucedemo.com/",
+      "Leave Username and Password fields empty",
+      "Click the Login button"
+    ],
+    "error": null,
+    "screenshot": null
+  },
+  {
+    "title": "Login with Invalid Password",
+    "type": "negative",
+    "priority": "high",
+    "status": "PASSED",
+    "steps": [
+      "Navigate to https://www.saucedemo.com/",
+      "Enter 'standard_user' in the Username field",
+      "Enter 'wrong_password' in the Password field",
+      "Click the Login button"
+    ],
+    "error": null,
+    "screenshot": null
+  },
+  {
+    "title": "Login with Locked Out User",
+    "type": "negative",
+    "priority": "medium",
+    "status": "PASSED",
+    "steps": [
+      "Navigate to https://www.saucedemo.com/",
+      "Enter 'locked_out_user' in the Username field",
+      "Enter 'secret_sauce' in the Password field",
+      "Click the Login button"
+    ],
+    "error": null,
+    "screenshot": null
+  }
+]

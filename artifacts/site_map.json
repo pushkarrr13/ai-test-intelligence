@@ -1,0 +1,1581 @@
+{
+  "base_url": "https://github.com/",
+  "authenticated": false,
+  "max_pages": 20,
+  "max_depth": 3,
+  "total_pages": 20,
+  "pages": [
+    {
+      "page_id": "09a8b930c8b7",
+      "url": "https://github.com/",
+      "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub · GitHub",
+      "depth": 0,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\09a8b930c8b7\\ui_model.json",
+      "screenshot": "artifacts\\pages\\09a8b930c8b7\\page.png",
+      "stats": {
+        "total_elements": 207,
+        "visible_elements": 124,
+        "buttons": 31,
+        "inputs": 2,
+        "links": 81,
+        "forms": 2,
+        "headings": 27
+      }
+    },
+    {
+      "page_id": "7b5768df0489",
+      "url": "https://github.com/enterprise",
+      "title": "GitHub Enterprise - Secure AI development at scale - GitHub · GitHub",
+      "depth": 1,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\7b5768df0489\\ui_model.json",
+      "screenshot": "artifacts\\pages\\7b5768df0489\\page.png",
+      "stats": {
+        "total_elements": 219,
+        "visible_elements": 115,
+        "buttons": 18,
+        "inputs": 0,
+        "links": 87,
+        "forms": 0,
+        "headings": 76
+      }
+    },
+    {
+      "page_id": "962f4f84f09b",
+      "url": "https://github.com/pricing",
+      "title": "GitHub · Plans & pricing for every developer and team · GitHub",
+      "depth": 1,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\962f4f84f09b\\ui_model.json",
+      "screenshot": "artifacts\\pages\\962f4f84f09b\\page.png",
+      "stats": {
+        "total_elements": 1017,
+        "visible_elements": 664,
+        "buttons": 18,
+        "inputs": 0,
+        "links": 82,
+        "forms": 0,
+        "headings": 147
+      }
+    },
+    {
+      "page_id": "a8579c24f002",
+      "url": "https://github.com/features/actions",
+      "title": "GitHub Actions · CI/CD and automations · Agentic Workflows · Workflows · GitHub",
+      "depth": 1,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\a8579c24f002\\ui_model.json",
+      "screenshot": "artifacts\\pages\\a8579c24f002\\page.png",
+      "stats": {
+        "total_elements": 163,
+        "visible_elements": 83,
+        "buttons": 10,
+        "inputs": 0,
+        "links": 70,
+        "forms": 0,
+        "headings": 22
+      }
+    },
+    {
+      "page_id": "dc8c950fdff4",
+      "url": "https://github.com/features/codespaces",
+      "title": "GitHub Codespaces · Cloud Development Environment · GitHub · GitHub",
+      "depth": 1,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\dc8c950fdff4\\ui_model.json",
+      "screenshot": "artifacts\\pages\\dc8c950fdff4\\page.png",
+      "stats": {
+        "total_elements": 164,
+        "visible_elements": 84,
+        "buttons": 14,
+        "inputs": 0,
+        "links": 67,
+        "forms": 0,
+        "headings": 28
+      }
+    },
+    {
+      "page_id": "8b45ecc005e4",
+      "url": "https://github.com/mobile",
+      "title": "GitHub Mobile · GitHub",
+      "depth": 1,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\8b45ecc005e4\\ui_model.json",
+      "screenshot": "artifacts\\pages\\8b45ecc005e4\\page.png",
+      "stats": {
+        "total_elements": 158,
+        "visible_elements": 79,
+        "buttons": 16,
+        "inputs": 0,
+        "links": 60,
+        "forms": 0,
+        "headings": 22
+      }
+    },
+    {
+      "page_id": "3cfb98e221ad",
+      "url": "https://github.com/marketplace",
+      "title": "Marketplace · Tools to improve your workflow · GitHub",
+      "depth": 1,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\3cfb98e221ad\\ui_model.json",
+      "screenshot": "artifacts\\pages\\3cfb98e221ad\\page.png",
+      "stats": {
+        "total_elements": 282,
+        "visible_elements": 128,
+        "buttons": 15,
+        "inputs": 1,
+        "links": 108,
+        "forms": 0,
+        "headings": 33
+      }
+    },
+    {
+      "page_id": "ae983c146197",
+      "url": "https://github.com/security/advanced-security",
+      "title": "GitHub Advanced Security · Built-in protection for every repository · GitHub",
+      "depth": 1,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\ae983c146197\\ui_model.json",
+      "screenshot": "artifacts\\pages\\ae983c146197\\page.png",
+      "stats": {
+        "total_elements": 187,
+        "visible_elements": 105,
+        "buttons": 14,
+        "inputs": 0,
+        "links": 83,
+        "forms": 0,
+        "headings": 32
+      }
+    },
+    {
+      "page_id": "47e99332b7ba",
+      "url": "https://github.com/security/advanced-security/code-security",
+      "title": "GitHub Code Security · GitHub",
+      "depth": 1,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\47e99332b7ba\\ui_model.json",
+      "screenshot": "artifacts\\pages\\47e99332b7ba\\page.png",
+      "stats": {
+        "total_elements": 168,
+        "visible_elements": 88,
+        "buttons": 15,
+        "inputs": 0,
+        "links": 70,
+        "forms": 0,
+        "headings": 25
+      }
+    },
+    {
+      "page_id": "d37f7c100717",
+      "url": "https://github.com/security/advanced-security/software-supply-chain",
+      "title": "GitHub Supply Chain Security · GitHub",
+      "depth": 1,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\d37f7c100717\\ui_model.json",
+      "screenshot": "artifacts\\pages\\d37f7c100717\\page.png",
+      "stats": {
+        "total_elements": 166,
+        "visible_elements": 86,
+        "buttons": 14,
+        "inputs": 0,
+        "links": 69,
+        "forms": 0,
+        "headings": 27
+      }
+    },
+    {
+      "page_id": "8282d534ed22",
+      "url": "https://github.com/security/advanced-security/secret-protection",
+      "title": "GitHub Secret Protection · GitHub",
+      "depth": 1,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\8282d534ed22\\ui_model.json",
+      "screenshot": "artifacts\\pages\\8282d534ed22\\page.png",
+      "stats": {
+        "total_elements": 167,
+        "visible_elements": 87,
+        "buttons": 15,
+        "inputs": 0,
+        "links": 69,
+        "forms": 0,
+        "headings": 26
+      }
+    },
+    {
+      "page_id": "440986dac0dc",
+      "url": "https://github.com/features/code-review",
+      "title": "Code review and pull requests · GitHub · GitHub",
+      "depth": 2,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\440986dac0dc\\ui_model.json",
+      "screenshot": "artifacts\\pages\\440986dac0dc\\page.png",
+      "stats": {
+        "total_elements": 172,
+        "visible_elements": 92,
+        "buttons": 16,
+        "inputs": 0,
+        "links": 73,
+        "forms": 0,
+        "headings": 18
+      }
+    },
+    {
+      "page_id": "9edbc14ac75d",
+      "url": "https://github.com/features/discussions",
+      "title": "GitHub Discussions · Developer Collaboration & Communication Tool · GitHub",
+      "depth": 2,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\9edbc14ac75d\\ui_model.json",
+      "screenshot": "artifacts\\pages\\9edbc14ac75d\\page.png",
+      "stats": {
+        "total_elements": 166,
+        "visible_elements": 86,
+        "buttons": 17,
+        "inputs": 0,
+        "links": 66,
+        "forms": 0,
+        "headings": 20
+      }
+    },
+    {
+      "page_id": "856042b0d403",
+      "url": "https://github.com/features/code-search",
+      "title": "GitHub Code Search · GitHub",
+      "depth": 2,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\856042b0d403\\ui_model.json",
+      "screenshot": "artifacts\\pages\\856042b0d403\\page.png",
+      "stats": {
+        "total_elements": 159,
+        "visible_elements": 79,
+        "buttons": 10,
+        "inputs": 0,
+        "links": 66,
+        "forms": 0,
+        "headings": 18
+      }
+    },
+    {
+      "page_id": "a553c20946be",
+      "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmarketplace%2Fnew",
+      "title": "Sign in to GitHub · GitHub",
+      "depth": 2,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\a553c20946be\\ui_model.json",
+      "screenshot": "artifacts\\pages\\a553c20946be\\page.png",
+      "stats": {
+        "total_elements": 70,
+        "visible_elements": 17,
+        "buttons": 6,
+        "inputs": 3,
+        "links": 7,
+        "forms": 5,
+        "headings": 1
+      }
+    },
+    {
+      "page_id": "a20b0fc9b7ac",
+      "url": "https://github.com/marketplace/render",
+      "title": "Render · GitHub Marketplace · GitHub",
+      "depth": 2,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\a20b0fc9b7ac\\ui_model.json",
+      "screenshot": "artifacts\\pages\\a20b0fc9b7ac\\page.png",
+      "stats": {
+        "total_elements": 145,
+        "visible_elements": 51,
+        "buttons": 10,
+        "inputs": 1,
+        "links": 32,
+        "forms": 1,
+        "headings": 19
+      }
+    },
+    {
+      "page_id": "aac332e1d135",
+      "url": "https://github.com/marketplace/lovablebot",
+      "title": "LovableBot · GitHub Marketplace · GitHub",
+      "depth": 2,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\aac332e1d135\\ui_model.json",
+      "screenshot": "artifacts\\pages\\aac332e1d135\\page.png",
+      "stats": {
+        "total_elements": 137,
+        "visible_elements": 46,
+        "buttons": 10,
+        "inputs": 1,
+        "links": 31,
+        "forms": 1,
+        "headings": 16
+      }
+    },
+    {
+      "page_id": "ee45f2fcc34d",
+      "url": "https://github.com/marketplace/opencode-copilot",
+      "title": "OpenCode · GitHub Marketplace · GitHub",
+      "depth": 2,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\ee45f2fcc34d\\ui_model.json",
+      "screenshot": "artifacts\\pages\\ee45f2fcc34d\\page.png",
+      "stats": {
+        "total_elements": 136,
+        "visible_elements": 45,
+        "buttons": 10,
+        "inputs": 1,
+        "links": 30,
+        "forms": 1,
+        "headings": 20
+      }
+    },
+    {
+      "page_id": "5a75c517feb8",
+      "url": "https://github.com/marketplace/linear-code",
+      "title": "Linear Code · GitHub Marketplace · GitHub",
+      "depth": 2,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\5a75c517feb8\\ui_model.json",
+      "screenshot": "artifacts\\pages\\5a75c517feb8\\page.png",
+      "stats": {
+        "total_elements": 144,
+        "visible_elements": 50,
+        "buttons": 10,
+        "inputs": 1,
+        "links": 33,
+        "forms": 1,
+        "headings": 19
+      }
+    },
+    {
+      "page_id": "572f8a966513",
+      "url": "https://github.com/marketplace/coderabbitai",
+      "title": "CodeRabbit · GitHub Marketplace · GitHub",
+      "depth": 2,
+      "authenticated": false,
+      "ui_model": "artifacts\\pages\\572f8a966513\\ui_model.json",
+      "screenshot": "artifacts\\pages\\572f8a966513\\page.png",
+      "stats": {
+        "total_elements": 157,
+        "visible_elements": 60,
+        "buttons": 10,
+        "inputs": 5,
+        "links": 34,
+        "forms": 1,
+        "headings": 21
+      }
+    }
+  ],
+  "navigation": {
+    "https://github.com/": [
+      {
+        "url": "https://github.com/enterprise",
+        "depth": 1,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 68,
+            "tag": "button",
+            "text": "Enterprise",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=gb_virt_uni26",
+          "to_url": "https://github.com/enterprise",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/pricing",
+        "depth": 1,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 73,
+            "tag": "a",
+            "text": "Pricing",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/pricing",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/",
+          "to_url": "https://github.com/pricing",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/features/actions",
+        "depth": 1,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 96,
+            "tag": "a",
+            "text": "Explore GitHub Actions",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/features/actions",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/",
+          "to_url": "https://github.com/features/actions",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/features/codespaces",
+        "depth": 1,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 98,
+            "tag": "a",
+            "text": "Explore GitHub Codespaces",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/features/codespaces",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/",
+          "to_url": "https://github.com/features/codespaces",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/mobile",
+        "depth": 1,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 100,
+            "tag": "a",
+            "text": "Explore GitHub Mobile",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/mobile",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/",
+          "to_url": "https://github.com/mobile",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/marketplace",
+        "depth": 1,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 102,
+            "tag": "a",
+            "text": "Explore GitHub Marketplace",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/",
+          "to_url": "https://github.com/marketplace",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/security/advanced-security",
+        "depth": 1,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 103,
+            "tag": "a",
+            "text": "Explore GitHub Advanced Security",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/security/advanced-security",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/",
+          "to_url": "https://github.com/security/advanced-security",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/security/advanced-security/code-security",
+        "depth": 1,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 104,
+            "tag": "a",
+            "text": "Learn about GitHub Code Security",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/security/advanced-security/code-security",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/",
+          "to_url": "https://github.com/security/advanced-security/code-security",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/security/advanced-security/software-supply-chain",
+        "depth": 1,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 105,
+            "tag": "a",
+            "text": "Learn about Dependabot",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/security/advanced-security/software-supply-chain",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/",
+          "to_url": "https://github.com/security/advanced-security/software-supply-chain",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/security/advanced-security/secret-protection",
+        "depth": 1,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 106,
+            "tag": "a",
+            "text": "Learn about GitHub Secret Protection",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/security/advanced-security/secret-protection",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/",
+          "to_url": "https://github.com/security/advanced-security/secret-protection",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/enterprise": [
+      {
+        "url": "https://github.com/pricing",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 73,
+            "tag": "a",
+            "text": "Pricing",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/pricing",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/enterprise",
+          "to_url": "https://github.com/pricing",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/pricing": [],
+    "https://github.com/features/actions": [
+      {
+        "url": "https://github.com/features/code-review",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 87,
+            "tag": "a",
+            "text": "Code review",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/features/code-review?locale=en-US",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/pricing",
+          "to_url": "https://github.com/features/code-review",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/features/discussions",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 88,
+            "tag": "a",
+            "text": "Discussions",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/features/discussions?locale=en-US",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/actions",
+          "to_url": "https://github.com/features/discussions",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/features/code-search",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 89,
+            "tag": "a",
+            "text": "Code search",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/features/code-search?locale=en-US",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/actions",
+          "to_url": "https://github.com/features/code-search",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/features/codespaces": [
+      {
+        "url": "https://github.com/features/code-review",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 87,
+            "tag": "a",
+            "text": "Code review",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/features/code-review?locale=en-US",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/pricing",
+          "to_url": "https://github.com/features/code-review",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/features/discussions",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 88,
+            "tag": "a",
+            "text": "Discussions",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/features/discussions?locale=en-US",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/codespaces",
+          "to_url": "https://github.com/features/discussions",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/features/code-search",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 89,
+            "tag": "a",
+            "text": "Code search",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/features/code-search?locale=en-US",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/codespaces",
+          "to_url": "https://github.com/features/code-search",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/mobile": [],
+    "https://github.com/marketplace": [
+      {
+        "url": "https://github.com/features/code-review",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 89,
+            "tag": "a",
+            "text": "Code review",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace?type=apps&category=code-review",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/pricing",
+          "to_url": "https://github.com/features/code-review",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmarketplace%2Fnew",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 150,
+            "tag": "a",
+            "text": "Create extension",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace/new",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/marketplace",
+          "to_url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmarketplace%2Fnew",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/marketplace/render",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 154,
+            "tag": "a",
+            "text": "Render",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace/render",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/marketplace",
+          "to_url": "https://github.com/marketplace/render",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/marketplace/lovablebot",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 155,
+            "tag": "a",
+            "text": "LovableBot",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace/lovablebot",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/marketplace",
+          "to_url": "https://github.com/marketplace/lovablebot",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/marketplace/opencode-copilot",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 156,
+            "tag": "a",
+            "text": "OpenCode",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace/opencode-copilot",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/marketplace",
+          "to_url": "https://github.com/marketplace/opencode-copilot",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/marketplace/linear-code",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 157,
+            "tag": "a",
+            "text": "Linear Code",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace/linear-code",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/marketplace",
+          "to_url": "https://github.com/marketplace/linear-code",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/marketplace/coderabbitai",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 158,
+            "tag": "a",
+            "text": "CodeRabbit",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace/coderabbitai",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/marketplace",
+          "to_url": "https://github.com/marketplace/coderabbitai",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/marketplace/codemagic-ci-cd",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 159,
+            "tag": "a",
+            "text": "Codemagic CI/CD",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace/codemagic-ci-cd",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/marketplace",
+          "to_url": "https://github.com/marketplace/codemagic-ci-cd",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/marketplace/azure-pipelines",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 163,
+            "tag": "a",
+            "text": "Azure Pipelines",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace/azure-pipelines",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/marketplace",
+          "to_url": "https://github.com/marketplace/azure-pipelines",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/marketplace/circleci",
+        "depth": 2,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 164,
+            "tag": "a",
+            "text": "CircleCI",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/marketplace/circleci",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/marketplace",
+          "to_url": "https://github.com/marketplace/circleci",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/security/advanced-security": [],
+    "https://github.com/security/advanced-security/code-security": [],
+    "https://github.com/security/advanced-security/software-supply-chain": [],
+    "https://github.com/security/advanced-security/secret-protection": [],
+    "https://github.com/features/code-review": [
+      {
+        "url": "https://github.com/features/discussions",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 88,
+            "tag": "a",
+            "text": "Discussions",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/features/discussions?locale=en-US",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/code-review",
+          "to_url": "https://github.com/features/discussions",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/features/code-search",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 89,
+            "tag": "a",
+            "text": "Code search",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/features/code-search?locale=en-US",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/code-review",
+          "to_url": "https://github.com/features/code-search",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/github/roadmap",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 117,
+            "tag": "a",
+            "text": "Roadmap",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/github/roadmap",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/pricing",
+          "to_url": "https://github.com/github/roadmap",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/resources/articles/devops-tools-comparison",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 118,
+            "tag": "a",
+            "text": "Compare GitHub",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/resources/articles/devops-tools-comparison",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/code-review",
+          "to_url": "https://github.com/resources/articles/devops-tools-comparison",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/about",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 136,
+            "tag": "a",
+            "text": "About",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/about",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://help.github.com/",
+          "to_url": "https://github.com/about",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/customer-stories?type=enterprise",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 138,
+            "tag": "a",
+            "text": "Customer Stories",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/customer-stories?type=enterprise",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/code-review",
+          "to_url": "https://github.com/customer-stories?type=enterprise",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/readme",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 140,
+            "tag": "a",
+            "text": "The ReadME Project",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/readme",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/code-review",
+          "to_url": "https://github.com/readme",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/features/discussions": [
+      {
+        "url": "https://github.com/features/code-search",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 89,
+            "tag": "a",
+            "text": "Code search",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.com/features/code-search?locale=en-US",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/discussions",
+          "to_url": "https://github.com/features/code-search",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/github/roadmap",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 111,
+            "tag": "a",
+            "text": "Roadmap",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/github/roadmap",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/pricing",
+          "to_url": "https://github.com/github/roadmap",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/resources/articles/devops-tools-comparison",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 112,
+            "tag": "a",
+            "text": "Compare GitHub",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/resources/articles/devops-tools-comparison",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/discussions",
+          "to_url": "https://github.com/resources/articles/devops-tools-comparison",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/about",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 130,
+            "tag": "a",
+            "text": "About",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/about",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://help.github.com/",
+          "to_url": "https://github.com/about",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/customer-stories?type=enterprise",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 132,
+            "tag": "a",
+            "text": "Customer Stories",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/customer-stories?type=enterprise",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/discussions",
+          "to_url": "https://github.com/customer-stories?type=enterprise",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/readme",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 134,
+            "tag": "a",
+            "text": "The ReadME Project",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/readme",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/discussions",
+          "to_url": "https://github.com/readme",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/features/code-search": [
+      {
+        "url": "https://github.com/about",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 123,
+            "tag": "a",
+            "text": "About",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/about",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://help.github.com/",
+          "to_url": "https://github.com/about",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/customer-stories?type=enterprise",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 125,
+            "tag": "a",
+            "text": "Customer Stories",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/customer-stories?type=enterprise",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/code-search",
+          "to_url": "https://github.com/customer-stories?type=enterprise",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      },
+      {
+        "url": "https://github.com/readme",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 127,
+            "tag": "a",
+            "text": "The ReadME Project",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "/readme",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/features/code-search",
+          "to_url": "https://github.com/readme",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmarketplace%2Fnew": [
+      {
+        "url": "https://github.com/password_reset",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 6,
+            "tag": "a",
+            "text": "Forgot password?",
+            "aria_label": "",
+            "data_test": "",
+            "id": "forgot-password",
+            "href": "/password_reset",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmarketplace%2Fnew",
+          "to_url": "https://github.com/password_reset",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/marketplace/render": [
+      {
+        "url": "https://github.com/orgs/community/discussions",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 115,
+            "tag": "a",
+            "text": "Community",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.community/",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://www.githubstatus.com/",
+          "to_url": "https://github.com/orgs/community/discussions",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/marketplace/lovablebot": [
+      {
+        "url": "https://github.com/orgs/community/discussions",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 113,
+            "tag": "a",
+            "text": "Community",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.community/",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://www.githubstatus.com/",
+          "to_url": "https://github.com/orgs/community/discussions",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/marketplace/opencode-copilot": [
+      {
+        "url": "https://github.com/orgs/community/discussions",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 112,
+            "tag": "a",
+            "text": "Community",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.community/",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://www.githubstatus.com/",
+          "to_url": "https://github.com/orgs/community/discussions",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/marketplace/linear-code": [
+      {
+        "url": "https://github.com/orgs/community/discussions",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 117,
+            "tag": "a",
+            "text": "Community",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.community/",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://www.githubstatus.com/",
+          "to_url": "https://github.com/orgs/community/discussions",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ],
+    "https://github.com/marketplace/coderabbitai": [
+      {
+        "url": "https://github.com/orgs/community/discussions",
+        "depth": 3,
+        "trigger": {
+          "action": "click",
+          "element": {
+            "index": 118,
+            "tag": "a",
+            "text": "Community",
+            "aria_label": "",
+            "data_test": "",
+            "id": "",
+            "href": "https://github.community/",
+            "role": "",
+            "visible": true,
+            "disabled": false
+          },
+          "from_url": "https://www.githubstatus.com/",
+          "to_url": "https://github.com/orgs/community/discussions",
+          "url_changed": true,
+          "content_changed": true,
+          "title_changed": true
+        }
+      }
+    ]
+  }
+}

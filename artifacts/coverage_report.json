@@ -1,0 +1,112 @@
+{
+  "generated_by": "AI Test Intelligence",
+  "requirements": {
+    "total": 5,
+    "fully_covered": 4,
+    "partially_covered": 0,
+    "not_covered": 1,
+    "coverage_percentage": 80.0
+  },
+  "execution": {
+    "total_journeys": 3,
+    "passed_journeys": 3,
+    "failed_journeys": 0,
+    "total_steps": 18,
+    "passed_steps": 18,
+    "failed_steps": 0,
+    "healed_steps": 1
+  },
+  "coverage": [
+    {
+      "requirement_id": "REQ-001",
+      "title": "User Login",
+      "priority": "Critical",
+      "coverage_level": "FULL",
+      "matching_journeys": [
+        "Sort Products and View Item Details"
+      ],
+      "passed_journeys": [
+        "Sort Products and View Item Details"
+      ],
+      "failed_journeys": [],
+      "missing_coverage": [],
+      "recommendation": "Requirement has matching automated coverage with at least one passing journey."
+    },
+    {
+      "requirement_id": "REQ-002",
+      "title": "Product Browsing",
+      "priority": "High",
+      "coverage_level": "NONE",
+      "matching_journeys": [],
+      "passed_journeys": [],
+      "failed_journeys": [],
+      "missing_coverage": [
+        "Users should see available products.",
+        "Users should be able to sort products.",
+        "Users should be able to open a product's details."
+      ],
+      "recommendation": "Create an automated test journey covering this requirement."
+    },
+    {
+      "requirement_id": "REQ-003",
+      "title": "Add Products to Cart",
+      "priority": "High",
+      "coverage_level": "FULL",
+      "matching_journeys": [
+        "Sort Products and View Item Details",
+        "Add Products to Cart and View Cart"
+      ],
+      "passed_journeys": [
+        "Sort Products and View Item Details",
+        "Add Products to Cart and View Cart"
+      ],
+      "failed_journeys": [],
+      "missing_coverage": [],
+      "recommendation": "Requirement has matching automated coverage with at least one passing journey."
+    },
+    {
+      "requirement_id": "REQ-004",
+      "title": "Remove Products from Cart",
+      "priority": "Medium",
+      "coverage_level": "FULL",
+      "matching_journeys": [
+        "Sort Products and View Item Details",
+        "Add Products to Cart and View Cart",
+        "Manage Cart Items and Continue Shopping"
+      ],
+      "passed_journeys": [
+        "Sort Products and View Item Details",
+        "Add Products to Cart and View Cart",
+        "Manage Cart Items and Continue Shopping"
+      ],
+      "failed_journeys": [],
+      "missing_coverage": [],
+      "recommendation": "Requirement has matching automated coverage with at least one passing journey."
+    },
+    {
+      "requirement_id": "REQ-005",
+      "title": "Continue Shopping",
+      "priority": "Medium",
+      "coverage_level": "FULL",
+      "matching_journeys": [
+        "Manage Cart Items and Continue Shopping",
+        "Sort Products and View Item Details"
+      ],
+      "passed_journeys": [
+        "Manage Cart Items and Continue Shopping",
+        "Sort Products and View Item Details"
+      ],
+      "failed_journeys": [],
+      "missing_coverage": [],
+      "recommendation": "Requirement has matching automated coverage with at least one passing journey."
+    }
+  ],
+  "critical_gaps": [
+    {
+      "requirement_id": "REQ-002",
+      "title": "Product Browsing",
+      "priority": "High",
+      "reason": "No matching automated journey."
+    }
+  ]
+}

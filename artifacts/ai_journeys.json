@@ -1,0 +1,61 @@
+{
+  "application_summary": "The application is the Google homepage, allowing users to perform searches, access Google services like Gmail and Images, change language preferences, and view legal and corporate information.",
+  "important_pages": [
+    "https://www.google.com/"
+  ],
+  "important_flows": [
+    "Search functionality using the textarea and submit buttons"
+  ],
+  "journeys": [
+    {
+      "title": "Perform a basic search",
+      "description": "User navigates to Google homepage, enters a search query into the search box, and submits the search.",
+      "type": "Core business flow",
+      "priority": "High",
+      "preconditions": [
+        "User is on the Google homepage"
+      ],
+      "actions": [
+        {
+          "action": "navigate",
+          "target": "",
+          "value": "https://www.google.com/"
+        },
+        {
+          "action": "fill",
+          "target": "Search",
+          "value": "Playwright testing"
+        },
+        {
+          "action": "click",
+          "target": "Google Search",
+          "value": ""
+        }
+      ],
+      "expected_result": "Search is performed successfully."
+    },
+    {
+      "title": "Navigate to Sign in page",
+      "description": "User clicks the Sign in button from the Google homepage header.",
+      "type": "Authentication",
+      "priority": "High",
+      "preconditions": [
+        "User is on the Google homepage"
+      ],
+      "actions": [
+        {
+          "action": "navigate",
+          "target": "",
+          "value": "https://www.google.com/"
+        },
+        {
+          "action": "click",
+          "target": "Sign in",
+          "value": ""
+        }
+      ],
+      "expected_result": "User is directed to the Google accounts service login page."
+    }
+  ],
+  "target_url": "https://www.google.com/"
+}

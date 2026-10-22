@@ -1,0 +1,40 @@
+{
+  "total_healing_attempts": 3,
+  "successful_heals": 3,
+  "failed_heals": 0,
+  "heals": [
+    {
+      "journey": "Sort Products and View Item Details",
+      "step": 3,
+      "action": "click",
+      "original_target": "Sauce Labs Onesie",
+      "healed_target": "aria-label=View details for Sauce Labs Onesie",
+      "strategy": "aria-label",
+      "confidence": 0.938,
+      "success": true,
+      "reason": "Equivalent visible DOM element found."
+    },
+    {
+      "journey": "Sort Products and View Item Details",
+      "step": 3,
+      "action": "click",
+      "original_target": "Sauce Labs Onesie",
+      "healed_target": "aria-label=View details for Sauce Labs Onesie",
+      "strategy": "aria-label",
+      "confidence": 0.938,
+      "success": true,
+      "reason": "Equivalent visible DOM element found."
+    },
+    {
+      "journey": "Perform Google Search",
+      "step": 3,
+      "action": "click",
+      "original_target": "Google Search",
+      "healed_target": "aria-label=Google Search",
+      "strategy": "aria-label",
+      "confidence": 1.0,
+      "success": true,
+      "reason": "Equivalent visible DOM element found."
+    }
+  ]
+}

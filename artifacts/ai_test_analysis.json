@@ -1,0 +1,91 @@
+{
+  "page_type": "Login Page",
+  "summary": "The Swag Labs login page provides username and password input fields along with a login button for user authentication, plus a display of accepted usernames and passwords for testing.",
+  "important_elements": [
+    "user-name",
+    "password",
+    "login-button"
+  ],
+  "user_flows": [
+    "Successful user login",
+    "Locked out user login attempt",
+    "Login with empty fields",
+    "Login with invalid credentials"
+  ],
+  "test_cases": [
+    {
+      "title": "Successful Login with Standard User",
+      "type": "positive",
+      "priority": "high",
+      "actions": [
+        {
+          "action": "navigate",
+          "target": "https://www.saucedemo.com/",
+          "value": ""
+        },
+        {
+          "action": "fill",
+          "target": "Username",
+          "value": "standard_user"
+        },
+        {
+          "action": "fill",
+          "target": "Password",
+          "value": "secret_sauce"
+        },
+        {
+          "action": "click",
+          "target": "login-button",
+          "value": ""
+        }
+      ],
+      "expected_result": "User is successfully logged in and navigated to the inventory page."
+    },
+    {
+      "title": "Login with Empty Username and Password",
+      "type": "negative",
+      "priority": "medium",
+      "actions": [
+        {
+          "action": "navigate",
+          "target": "https://www.saucedemo.com/",
+          "value": ""
+        },
+        {
+          "action": "click",
+          "target": "login-button",
+          "value": ""
+        }
+      ],
+      "expected_result": "An error message indicating that username is required is displayed."
+    },
+    {
+      "title": "Login with Locked Out User",
+      "type": "negative",
+      "priority": "high",
+      "actions": [
+        {
+          "action": "navigate",
+          "target": "https://www.saucedemo.com/",
+          "value": ""
+        },
+        {
+          "action": "fill",
+          "target": "Username",
+          "value": "locked_out_user"
+        },
+        {
+          "action": "fill",
+          "target": "Password",
+          "value": "secret_sauce"
+        },
+        {
+          "action": "click",
+          "target": "login-button",
+          "value": ""
+        }
+      ],
+      "expected_result": "An error message indicating that the user has been locked out is displayed."
+    }
+  ]
+}

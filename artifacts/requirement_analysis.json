@@ -1,0 +1,225 @@
+{
+  "application_summary": "The application is Swag Labs, an e-commerce web store where users can view an inventory of products, sort them, view individual product details, manage items in a shopping cart, and proceed with purchases.",
+  "requirements": [
+    {
+      "requirement_id": "REQ-001",
+      "title": "User Login",
+      "description": "Users must be able to log in using valid credentials.",
+      "type": "Functional",
+      "priority": "Critical",
+      "acceptance_criteria": [
+        "A valid username and password should authenticate the user.",
+        "The authenticated user should be taken to the inventory page.",
+        "Invalid credentials should not authenticate the user."
+      ],
+      "assumptions": [
+        "Valid credentials are provided by the test environment."
+      ]
+    },
+    {
+      "requirement_id": "REQ-002",
+      "title": "Product Browsing",
+      "description": "Users must be able to browse products.",
+      "type": "Functional",
+      "priority": "High",
+      "acceptance_criteria": [
+        "Users should see available products.",
+        "Users should be able to sort products.",
+        "Users should be able to open a product's details."
+      ],
+      "assumptions": [
+        "Products are loaded dynamically on the inventory page."
+      ]
+    },
+    {
+      "requirement_id": "REQ-003",
+      "title": "Add Products to Cart",
+      "description": "Users must be able to add products to their shopping cart.",
+      "type": "Functional",
+      "priority": "High",
+      "acceptance_criteria": [
+        "A user can add a product to the cart.",
+        "The cart should reflect the selected item count.",
+        "The user can open the cart and see selected products."
+      ],
+      "assumptions": [
+        "Cart badge updates upon adding an item."
+      ]
+    },
+    {
+      "requirement_id": "REQ-004",
+      "title": "Remove Products from Cart",
+      "description": "Users must be able to remove products from their cart.",
+      "type": "Functional",
+      "priority": "Medium",
+      "acceptance_criteria": [
+        "A user can remove a selected product.",
+        "The removed product should no longer appear in the cart."
+      ],
+      "assumptions": [
+        "Removal can take place from the cart page or inventory page."
+      ]
+    },
+    {
+      "requirement_id": "REQ-005",
+      "title": "Continue Shopping",
+      "description": "Users should be able to continue shopping from the cart.",
+      "type": "Functional",
+      "priority": "Medium",
+      "acceptance_criteria": [
+        "Selecting Continue Shopping should return the user to the inventory page."
+      ],
+      "assumptions": [
+        "Continue Shopping button is available on the cart page."
+      ]
+    }
+  ],
+  "test_scenarios": [
+    {
+      "requirement_id": "REQ-001",
+      "scenario_id": "TC-REQ-001-01",
+      "title": "Successful Login with Valid Credentials",
+      "type": "Functional",
+      "priority": "Critical",
+      "preconditions": [
+        "User is on the login page"
+      ],
+      "steps": [
+        "Enter valid username",
+        "Enter valid password",
+        "Click login button"
+      ],
+      "expected_result": "User is successfully authenticated and redirected to the inventory page."
+    },
+    {
+      "requirement_id": "REQ-001",
+      "scenario_id": "TC-REQ-001-02",
+      "title": "Failed Login with Invalid Credentials",
+      "type": "Validation",
+      "priority": "High",
+      "preconditions": [
+        "User is on the login page"
+      ],
+      "steps": [
+        "Enter invalid username or password",
+        "Click login button"
+      ],
+      "expected_result": "User is not authenticated and remains on the login page with an error message."
+    },
+    {
+      "requirement_id": "REQ-002",
+      "scenario_id": "TC-REQ-002-01",
+      "title": "Sort Products and View Details",
+      "type": "Functional",
+      "priority": "High",
+      "preconditions": [
+        "User is on the inventory page"
+      ],
+      "steps": [
+        "Select sort option low to high",
+        "Click on a product title or image"
+      ],
+      "expected_result": "Products are sorted accordingly and the user opens the product details page."
+    },
+    {
+      "requirement_id": "REQ-003",
+      "scenario_id": "TC-REQ-003-01",
+      "title": "Add Products to Cart and Verify",
+      "type": "Functional",
+      "priority": "High",
+      "preconditions": [
+        "User is on the inventory page"
+      ],
+      "steps": [
+        "Click add to cart for multiple items",
+        "Click on the shopping cart link"
+      ],
+      "expected_result": "Selected items are added, cart badge reflects count, and items are listed on the cart page."
+    },
+    {
+      "requirement_id": "REQ-004",
+      "scenario_id": "TC-REQ-004-01",
+      "title": "Remove Product from Cart",
+      "type": "Functional",
+      "priority": "Medium",
+      "preconditions": [
+        "User is on the cart page with items added"
+      ],
+      "steps": [
+        "Click the Remove button next to an item"
+      ],
+      "expected_result": "The item is removed from the cart and no longer displayed."
+    },
+    {
+      "requirement_id": "REQ-005",
+      "scenario_id": "TC-REQ-005-01",
+      "title": "Continue Shopping from Cart",
+      "type": "Functional",
+      "priority": "Medium",
+      "preconditions": [
+        "User is on the cart page"
+      ],
+      "steps": [
+        "Click Continue Shopping button"
+      ],
+      "expected_result": "User is navigated back to the inventory page."
+    }
+  ],
+  "coverage": [
+    {
+      "requirement_id": "REQ-001",
+      "covered": false,
+      "coverage_level": "NONE",
+      "matching_journeys": [],
+      "missing_coverage": [
+        "Login validation flow",
+        "Invalid credential handling"
+      ],
+      "recommendation": "Add login test journeys to the exploration dataset."
+    },
+    {
+      "requirement_id": "REQ-002",
+      "covered": true,
+      "coverage_level": "FULL",
+      "matching_journeys": [
+        "Sort Products and View Item Details"
+      ],
+      "missing_coverage": [],
+      "recommendation": "Maintain existing journey coverage."
+    },
+    {
+      "requirement_id": "REQ-003",
+      "covered": true,
+      "coverage_level": "FULL",
+      "matching_journeys": [
+        "Add Products to Cart and View Cart"
+      ],
+      "missing_coverage": [],
+      "recommendation": "Maintain existing journey coverage."
+    },
+    {
+      "requirement_id": "REQ-004",
+      "covered": true,
+      "coverage_level": "FULL",
+      "matching_journeys": [
+        "Manage Cart Items and Continue Shopping"
+      ],
+      "missing_coverage": [],
+      "recommendation": "Maintain existing journey coverage."
+    },
+    {
+      "requirement_id": "REQ-005",
+      "covered": true,
+      "coverage_level": "FULL",
+      "matching_journeys": [
+        "Manage Cart Items and Continue Shopping"
+      ],
+      "missing_coverage": [],
+      "recommendation": "Maintain existing journey coverage."
+    }
+  ],
+  "overall_coverage_summary": "The explored journeys cover product browsing, cart addition, cart removal, and continue shopping flows fully. However, login functionality (REQ-001) has no matching journey in the provided site map or explored journeys.",
+  "critical_gaps": [
+    "REQ-001 has zero coverage in the current automated journeys as the exploration assumes an already authenticated state."
+  ]
+}

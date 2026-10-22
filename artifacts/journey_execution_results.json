@@ -1,0 +1,111 @@
+{
+  "base_url": "https://www.google.com/",
+  "total_journeys": 2,
+  "passed_journeys": 2,
+  "failed_journeys": 0,
+  "healed_steps": 1,
+  "journeys": [
+    {
+      "journey_index": 1,
+      "title": "Perform Google Search",
+      "description": "User navigates to the Google homepage, enters a query in the search text area, and clicks the Google Search button.",
+      "status": "PASSED",
+      "total_steps": 3,
+      "passed_steps": 3,
+      "failed_steps": 0,
+      "healed_steps": 1,
+      "steps": [
+        {
+          "action": "navigate",
+          "target": "",
+          "value": "https://www.google.com/",
+          "status": "PASSED",
+          "locator_strategy": "",
+          "healed": false,
+          "healing": {},
+          "error": "",
+          "evidence": {
+            "screenshot": "C:\\ai-test-intelligence\\artifacts\\journey_evidence\\journey_1\\step_01_passed.png",
+            "dom": "C:\\ai-test-intelligence\\artifacts\\journey_evidence\\journey_1\\step_01_passed.html"
+          }
+        },
+        {
+          "action": "fill",
+          "target": "Search",
+          "value": "Playwright automation",
+          "status": "PASSED",
+          "locator_strategy": "aria-label",
+          "healed": false,
+          "healing": {},
+          "error": "",
+          "evidence": {
+            "screenshot": "C:\\ai-test-intelligence\\artifacts\\journey_evidence\\journey_1\\step_02_passed.png",
+            "dom": "C:\\ai-test-intelligence\\artifacts\\journey_evidence\\journey_1\\step_02_passed.html"
+          }
+        },
+        {
+          "action": "click",
+          "target": "Google Search",
+          "value": "",
+          "status": "PASSED",
+          "locator_strategy": "SELF-HEAL-RETRY:aria-label",
+          "healed": true,
+          "healing": {},
+          "error": "",
+          "evidence": {
+            "screenshot": "C:\\ai-test-intelligence\\artifacts\\journey_evidence\\journey_1\\step_03_passed_healed.png",
+            "dom": "C:\\ai-test-intelligence\\artifacts\\journey_evidence\\journey_1\\step_03_passed_healed.html"
+          },
+          "healing_retry": {
+            "success": true,
+            "original_target": "Google Search",
+            "healed_target": "aria-label=Google Search",
+            "strategy": "aria-label",
+            "confidence": 1.0,
+            "reason": "Equivalent visible DOM element found."
+          }
+        }
+      ]
+    },
+    {
+      "journey_index": 2,
+      "title": "Navigate to Sign In",
+      "description": "User opens the Google homepage and clicks on the Sign in link.",
+      "status": "PASSED",
+      "total_steps": 2,
+      "passed_steps": 2,
+      "failed_steps": 0,
+      "healed_steps": 0,
+      "steps": [
+        {
+          "action": "navigate",
+          "target": "",
+          "value": "https://www.google.com/",
+          "status": "PASSED",
+          "locator_strategy": "",
+          "healed": false,
+          "healing": {},
+          "error": "",
+          "evidence": {
+            "screenshot": "C:\\ai-test-intelligence\\artifacts\\journey_evidence\\journey_2\\step_01_passed.png",
+            "dom": "C:\\ai-test-intelligence\\artifacts\\journey_evidence\\journey_2\\step_01_passed.html"
+          }
+        },
+        {
+          "action": "click",
+          "target": "Sign in",
+          "value": "",
+          "status": "PASSED",
+          "locator_strategy": "aria-label",
+          "healed": false,
+          "healing": {},
+          "error": "",
+          "evidence": {
+            "screenshot": "C:\\ai-test-intelligence\\artifacts\\journey_evidence\\journey_2\\step_02_passed.png",
+            "dom": "C:\\ai-test-intelligence\\artifacts\\journey_evidence\\journey_2\\step_02_passed.html"
+          }
+        }
+      ]
+    }
+  ]
+}
